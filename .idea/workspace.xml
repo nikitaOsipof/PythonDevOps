@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31340b11-c9c9-460d-91cd-a7a0539780f4" name="Changes" comment="Сумма чисел">
-      <change afterPath="$PROJECT_DIR$/mod_3/DError_if.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod_3/Ugad_while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod_3/continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod_3/for_while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod_3/while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod_3/while_НОД.py" afterDir="false" />
+    <list default="true" id="31340b11-c9c9-460d-91cd-a7a0539780f4" name="Changes" comment="Циклы">
+      <change afterPath="$PROJECT_DIR$/mod_3/Demo_zip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod_3/Generator_expression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod_3/Generator_list_comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod_3/Lesson_3_Control_Flow_Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod_3/list_loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mod_1/1.Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/mod_1/1.Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod_3/Ugad_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/mod_3/Ugad_while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod_3/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/mod_3/while.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +48,13 @@
   "keyToString": {
     "Python.1.Sum.executor": "Run",
     "Python.DError_if.executor": "Run",
+    "Python.Demo_zip.executor": "Run",
+    "Python.Generator_expression.executor": "Run",
+    "Python.Generator_list_comprehension.executor": "Run",
     "Python.Ugad_while.executor": "Run",
     "Python.continue.executor": "Run",
     "Python.demo01.executor": "Run",
+    "Python.list_loop.executor": "Run",
     "Python.while.executor": "Run",
     "Python.while_НОД.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -96,12 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1734716831236</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Циклы">
+      <option name="closed" value="true" />
+      <created>1735060439115</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735060439115</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Проверка минуты" />
     <MESSAGE value="Сумма чисел" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сумма чисел" />
+    <MESSAGE value="Циклы" />
+    <option name="LAST_COMMIT_MESSAGE" value="Циклы" />
   </component>
 </project>
