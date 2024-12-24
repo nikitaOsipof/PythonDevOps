@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31340b11-c9c9-460d-91cd-a7a0539780f4" name="Changes" comment="Проверка минуты">
-      <change afterPath="$PROJECT_DIR$/mod_1/1.Sum.py" afterDir="false" />
+    <list default="true" id="31340b11-c9c9-460d-91cd-a7a0539780f4" name="Changes" comment="Сумма чисел">
+      <change afterPath="$PROJECT_DIR$/mod_3/DError_if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod_3/Ugad_while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod_3/continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod_3/for_while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod_3/while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod_3/while_НОД.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod_1/1.Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/mod_1/1.Sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -40,13 +47,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.1.Sum.executor": "Run",
+    "Python.DError_if.executor": "Run",
+    "Python.Ugad_while.executor": "Run",
+    "Python.continue.executor": "Run",
     "Python.demo01.executor": "Run",
+    "Python.while.executor": "Run",
+    "Python.while_НОД.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Niko\PycharmProjects\PythonProject\mod_3" />
       <recent name="C:\Users\Niko\PycharmProjects\PythonProject\mod_1" />
       <recent name="C:\Users\Niko\PycharmProjects\PythonProject\mod_0" />
     </key>
@@ -75,11 +88,20 @@
       <option name="project" value="LOCAL" />
       <updated>1734629747624</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Сумма чисел">
+      <option name="closed" value="true" />
+      <created>1734716831235</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734716831236</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Проверка минуты" />
-    <option name="LAST_COMMIT_MESSAGE" value="Проверка минуты" />
+    <MESSAGE value="Сумма чисел" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сумма чисел" />
   </component>
 </project>
