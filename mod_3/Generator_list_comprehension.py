@@ -36,6 +36,14 @@ b = [[i,a[i]] for i in a]
 c = [j for i in b for j in i]
 print(a, '\n', b, '\n', c)
 
+# Пример 3: Есть мусор - отберем то, что нужно
+st = '15r23edwd93rjf934#$%Ye34F^(*))_+W$#Ddq2)+(ddscew3r'
+digits = [i for i in st if i.isdigit()]
+letters = [i for i in st if i.isalpha()]
+spec_char = [i for i in st if not i.isalnum()]
+print('цифры:', *digits)
+print('буквы:',*letters)
+print('специальные символы:',*spec_char)
 
 # генераторы словарей: возвращают словарь (внешние скобки - фигурные):
 #{ key:value for item in list if conditional }
