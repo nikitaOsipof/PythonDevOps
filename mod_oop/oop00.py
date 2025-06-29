@@ -6,7 +6,7 @@ class Person:
     метод класса работает с атрибутом класса
     """
 
-    def display_str():
+    def display_str(self):
         return "Приветвенное имя: Уважаемый {}".format(Person.status)
 
 
